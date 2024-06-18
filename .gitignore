@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+
+# Ignore configuration files containing sensitive information
+config.ini
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.iml
