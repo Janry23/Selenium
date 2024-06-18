@@ -59,7 +59,7 @@ message_field.send_keys(message)
 
 # File input/upload
 file_input =  driver.find_element(by=By.NAME, value="my-file")
-file_path = "C:/Users/Janry Amban/Downloads/unnamed.jpg"
+file_path = "Your Path"
 file_input.send_keys(file_path)
 
 # Input Range
